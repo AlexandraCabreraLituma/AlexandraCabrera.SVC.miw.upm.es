@@ -10,14 +10,11 @@
 ### Estado del código
 
 
-[![Build Status](https://travis-ci.org/AlexandraCabreraLituma/AlexandraCabrera.SVC.miw.upm.es.svg?branch=develop)](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es)
+[![Build Status](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es.svg?branch=develop)](https://travis-ci.org/AlexandraCabreraLituma/Alexandra.Cabrera.SVC.miw.upm.es)
 
 
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3AAlexandra.Cabrera.SVC.miw.upm.es&metric=alert_status)
 
-
-
-[![BCH compliance](https://bettercodehub.com/edge/badge/AlexandraCabreraLituma/AlexandraCabrera.SVC.miw.upm.es?branch=master)](https://bettercodehub.com/)
 
 ### Descripción
 Este proyecto pretende ser una plantilla maven para crear un proyecto
